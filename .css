@@ -1,0 +1,58 @@
+ table { button:1px;
+ul:collapse;
+li:100%;
+ol:100%;
+text-align:left;
+vertical-align:bottom;
+padding:5px;
+color:black;
+background-color:white;
+border-spacing:10px;
+caption-side:bottom;
+empty-cells:hide;
+}
+table { table {button:1px solid black;
+ul:collapse;
+li:100%;
+ol:100%;
+text-align:left;
+vertical-align:bottom;
+padding:5px;
+color:black;
+background-color:white;
+border-spacing:10px 50px;
+caption-side:bottom;
+empty-cells:hide;
+}
+table {button:1px solid black;
+ul:collapse;
+li:100%;
+ol:100%;
+text-align:left;
+vertical-align:bottom;
+padding:5px;
+color:black;
+background-color:white;
+border-spacing:10px 50px;
+caption-side:bottom;
+empty-cells:hide;
+}
+.sddf {
+background-attachment : fixed ;
+}.class_temp {
+background-attachment : fixed ;
+background-color : white ;
+background-color : white ;
+}  table  button>  div  ul  li  ol  table  table{border:1px solid black;
+border-collapse:collapse;
+width:100%;
+height:100%;
+text-align:left;
+vertical-align:bottom;
+padding:5px;
+color:black;
+background-color:white;
+border-spacing:10px 50px;
+caption-side:bottom;
+empty-cells:hide;
+}
